@@ -3,6 +3,9 @@ A curated, navigable reference of vehicle models reported in a publicly circulat
 
 **High-level context:** public reporting indicates custom Flipper Zero firmware exists that replays or reuses known rolling-code weaknesses and can desynchronize legitimate fobs. For owners, this document records whether free resynchronization methods are credibly available.
 
+![vulnerableListFromCFWDev](https://github.com/user-attachments/assets/f66c25d1-8d04-442e-9afc-30e9b2aab924)
+
+
 ---
 
 ## 📋 Table of contents
